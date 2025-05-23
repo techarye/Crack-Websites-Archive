@@ -5,7 +5,7 @@ This repository contains a curated list of websites often referenced for cracked
 
 ---
 
-## Trusted Game Crack Websites (Commonly Referenced)
+## Trusted Crack Websites (Commonly Referenced)
 
 | Website Name       | URL                               | Notes                     |
 |--------------------|----------------------------------|---------------------------|
