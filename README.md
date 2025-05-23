@@ -20,6 +20,10 @@ This repository contains a curated list of websites often referenced for cracked
 | SteamRepacks       | [steamrepacks.net](https://steamrepacks.net/)        | Repack-focused site       |
 | SteamRip           | [steamrip.com](https://steamrip.com/)                | Cracked Steam game repacks|
 | 4Download          | [4download.net](https://4download.net/)              | Game repacks and cracks   |
+| Repack Games       | [repack-games.com](https://repack-games.com/)        | Game repacks              |
+| RepackLab          | [repacklab.com](https://repacklab.com/)              | Game repacks              |
+| Steam Repacks      | [steam-repacks.net](https://steam-repacks.net/)      | Repack-focused site       |
+| Steam Games Repack | [steamgamesrepack.com](https://steamgamesrepack.com/) | Game repacks              |
 
 ---
 
