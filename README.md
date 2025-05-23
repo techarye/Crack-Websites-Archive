@@ -56,7 +56,7 @@ Before accessing or downloading anything:
 ## ✅ Contributing
 
 Want to improve this list or report a site?  
-[Open an issue](https://github.com/your-repo/issues) or submit a pull request.
+[Open an issue](https://github.com/techarye/Crack-Websites-Archive/issues) or submit a pull request.
 
 ---
 
