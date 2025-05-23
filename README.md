@@ -1,6 +1,6 @@
 # Game Crack/Crack Websites List
 
-This repository contains a curated list of websites often referenced for cracked PC games.  
+This repository contains a curated list of websites often referenced for cracked PC games/softwares.  
 **Note:** This list is for informational purposes only. Downloading or using cracked software is illegal and may expose your system to security risks.
 
 ---
